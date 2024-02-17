@@ -1,0 +1,110 @@
+html,
+body {
+    height: 100%;
+    margin: 0px;
+    font-size: 16px;
+    font-size: "lato", sana-serif;
+    line-height: 1.8em;
+    color: #666;
+}
+
+.pimg1 {
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('image/i1.png');
+    width: 100%;
+}
+
+.pimg2 {
+    background-image: url('image/i2.png');
+    min-height: 400px;
+}
+
+.pimg3 {
+    background-image: url('image/i3.png');
+    min-height: 400px;
+}
+
+.pimg1,
+.pimg2,
+.pimg3 {
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.ptx {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+.txtbg {
+    background-color: black;
+    color: white;
+    padding: 25px;
+}
+
+.section {
+    padding: 50px 80px;
+    text-align: center;
+}
+
+.section-light {
+    background: #f4f4f4;
+    color: gray;
+}
+
+.section h2 {
+    font-size: 50px;
+}
+
+.section p {
+    font-size: 20px;
+}
+
+.s1 {
+    padding: 50px 80px;
+    text-align: center;
+}
+
+.s2 {
+    background: black;
+    color: white;
+}
+
+.s1 h2 {
+    font-size: 50px;
+}
+
+.s1 p {
+    font-size: 20px;
+}
+
+.s11 {
+    padding: 50px 80px;
+    text-align: center;
+}
+
+.s22 {
+    background: #edf6f9;
+    color: black;
+}
+
+.s11 h1 {
+    font-size: 50px;
+}
+
+.s11 p {
+    font-size: 20px;
+}
